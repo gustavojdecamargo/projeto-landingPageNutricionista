@@ -1,6 +1,7 @@
 # Landing Page para Nutricionista (Template)
 
-![Preview do Site](preview.png)
+![Preview do Site](<img width="1899" height="881" alt="screenshot-landingPageNutricionista" src="https://github.com/user-attachments/assets/95f9d883-04d7-4e7b-bbd9-529847184236" />)
+
 *(Dica: Substitua `preview.png` por um screenshot real do seu projeto)*
 
 > Uma landing page de alta conversão, moderna e responsiva, desenvolvida para uma nutricionista com foco em nutrição comportamental.
