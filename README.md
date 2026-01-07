@@ -1,4 +1,4 @@
-# Landing Page para Nutricionista (Template)
+# Landing Page para Nutricionista
 
 ![Preview do Site](screenshot-landingPageNutricionista.png)
 
