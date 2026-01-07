@@ -3,13 +3,11 @@
 ![Preview do Site](screenshot-landingPageNutricionista.png)
 
 
-> Uma landing page de alta conversão, moderna e responsiva, desenvolvida para uma nutricionista com foco em nutrição comportamental.
-
 ---
 
 ## 📋 Sobre o Projeto
 
-Este projeto é uma Landing Page estática desenvolvida para a persona "Dra. Ana Clara", uma nutricionista focada em reeducação alimentar sem dietas restritivas.
+Este projeto é uma Landing Page estática desenvolvida para fim de amostra das minhas capacidades como desenvolvedor, trata-se de uma página para a pessoa fícticia "Dra. Ana Clara", uma nutricionista focada em reeducação alimentar sem dietas restritivas.
 
 O objetivo principal da página é gerar **autoridade**, criar **conexão** com as dores do potencial paciente e, finalmente, converter o visitante em um agendamento de consulta através de um **link direto para o WhatsApp**.
 
@@ -31,7 +29,7 @@ O projeto foi construído utilizando apenas tecnologias nativas da web, sem depe
 
 * [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Estrutura semântica.
 * [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Estilização e layout.
-* [JavaScript (Vanilla)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Interatividade (menu, FAQ, redirecionamentos).
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Interatividade (menu, FAQ, redirecionamentos).
 * [Font Awesome 6](https://fontawesome.com/) - Ícones.
 * [Google Fonts](https://fonts.google.com/) - Tipografia (Fonte "Poppins").
 
@@ -49,6 +47,8 @@ Por ser um projeto estático, é muito simples de executar:
     ```
 3.  **Abra o arquivo principal:**
     Basta dar um duplo clique no arquivo `index.html` para abri-lo no seu navegador padrão.
+
+Ou acesse a página hospedada no github Pages: 
 
 ## ⚙️ Personalização (Como usar para você)
 
